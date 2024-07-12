@@ -4,4 +4,4 @@
 
 import ImageMagnifier from './ImageMagnifier';
 
-export default ImageMagnifier;
+export { ImageMagnifier };
