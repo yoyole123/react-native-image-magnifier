@@ -159,5 +159,9 @@
   "create-react-native-library": {
     "type": "library",
     "version": "0.37.1"
+  },
+  "dependencies": {
+    "react-native-modal": "^13.0.1",
+    "react-native-responsive-screen": "^1.4.2"
   }
 }

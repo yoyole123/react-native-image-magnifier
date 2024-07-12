@@ -10,7 +10,6 @@ npm install react-native-image-magnifier
 
 ## Usage
 
-
 ```js
 import { multiply } from 'react-native-image-magnifier';
 
@@ -18,7 +17,6 @@ import { multiply } from 'react-native-image-magnifier';
 
 const result = await multiply(3, 7);
 ```
-
 
 ## Contributing
 
