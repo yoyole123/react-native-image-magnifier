@@ -8,7 +8,7 @@ Allows zooming in on pictures in app using enlarged version in a full-screen mod
 npm install react-native-image-magnifier
 ```
 
-## Usage
+<!-- ## Usage
 
 ```js
 import { multiply } from 'react-native-image-magnifier';
@@ -28,4 +28,4 @@ MIT
 
 ---
 
-Made with [create-react-native-library](https://github.com/callstack/react-native-builder-bob)
+Made with [create-react-native-library](https://github.com/callstack/react-native-builder-bob) -->
