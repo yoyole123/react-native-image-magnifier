@@ -1,8 +1,12 @@
 {
   "compilerOptions": {
-    "rootDir": ".",
+    "rootDir": "./src",
+    "baseUrl": ".",
     "paths": {
       "react-native-image-magnifier": ["./src/index"]
+      // "@/components/*": [
+      //   "./src/*"
+      // ]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
@@ -23,6 +27,15 @@
     "skipLibCheck": true,
     "strict": true,
     "target": "esnext",
-    "verbatimModuleSyntax": true
-  }
+    "verbatimModuleSyntax": true,
+    "declaration": true, // Ensures declaration files are generated
+    "outDir": "./lib/typescript", // Output directory for built files
+    // "typeRoots": [
+    //   "./node_modules/@types",
+    //   "./types"
+    // ]
+    "types": ["react-native", "react"]
+  },
+  "include": ["src/**/*", "types/**/*"],
+  "exclude": ["node_modules", "lib", "**/*.spec.ts"]
 }
