@@ -15,7 +15,10 @@ or
 yarn add react-native-image-magnifier
 ```
 ## Trying demo app
-![Example Usage](https://raw.githubusercontent.com/yoyole123/react-native-image-magnifier/main/demo.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yoyole123/react-native-image-magnifier/main/demo.gif" />
+</p>
+
 To test the demo app yourself, run the following commands: 
 1. clone this repo
 ```shell
