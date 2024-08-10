@@ -15,7 +15,7 @@ or
 yarn add react-native-image-magnifier
 ```
 ## Trying demo app
-![Alt Text](https://s10.gifyu.com/images/SDkFu.gif)
+![example usage](https://s10.gifyu.com/images/SDkFu.gif)
 To test the demo app yourself, run the following commands: 
 1. clone this repo
 ```shell
